@@ -8,4 +8,4 @@
 
 2. MARS simulator is used as our assembler.
   
-3.The code is structured according to the different stages of the MIPS processor.
+3.The code is structured according to the different stages(INSTRUCTION FETCH(IF), INSTRUCTION DECODE(ID),EXECUTION STAGE AND MEMORY STAGE) of the MIPS processor.
