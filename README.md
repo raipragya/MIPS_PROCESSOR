@@ -9,3 +9,6 @@
 2. MARS simulator is used as our assembler.
   
 3.The code is structured according to the different stages(INSTRUCTION FETCH(IF), INSTRUCTION DECODE(ID),EXECUTION STAGE AND MEMORY STAGE) of the MIPS processor.
+
+RUN THE PROGRAM
+4.Clone the repository and run processor.py being in your root directory.(You need to have python installed)
